@@ -6,7 +6,7 @@ I'm a software developer who loves to create and learn new things. I have experi
 
 - 🔭 I’m currently working on a Minecraft naruto mod
 - 🌱 I’m currently learning Sql and TypeScript
-- 👯 I’m looking to collaborate on open source projects that make a positive impact
+- 👯 I’m looking to collaborate on open source projects that make a positive impact in the minecraft community
 - 🤔 I’m looking for help with my Minecraft Mods
 - 💬 Ask me about anything related to mod development
 
