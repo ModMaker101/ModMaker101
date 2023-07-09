@@ -1,6 +1,6 @@
 # Hi there, I'm ModMaker101 👋
 
-I'm a software developer who loves to create and learn new things. I have experience in web development, data science and machine learning.
+I'm a software developer who loves to create and learn new things. I have experience in web development.
 
 ## What I do
 
