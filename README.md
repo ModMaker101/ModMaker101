@@ -1,5 +1,9 @@
 # Hi there, I'm ModMaker101 👋
 
+Building mods, tools, and something new — **Project Crimson**.  
+The details are hidden for now, but you can [take a look here](https://modmaker101.github.io/crimson-web/) if you're curious.
+
+
 I'm a software developer who loves to create and learn new things. I have experience in web development.
 
 ## What I do
@@ -31,3 +35,6 @@ Here are some of the projects that I'm proud of:
 - [Minecraft-Bedrock-Naruto](https://github.com/ModMaker101/Minecraft-Bedrock-Naruto): A Minecraft bedrock Naruto addon
   
 - [KeyLight.Net](https://github.com/ModMaker101/KeyLighting.NET): lightweight C# console application that mirrors your screen's display colors onto your RGB keyboard lighting in real time.
+
+
+
