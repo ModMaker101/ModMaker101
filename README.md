@@ -3,10 +3,6 @@ I'm a cRaCkHeAd
 ## My stats
 ![Hackclub Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=9886&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-![ModMaker101's GitHub stats](https://github-readme-stats.vercel.app/api?username=modmaker101&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modmaker101&layout=compact&theme=radical)
-
 ## My projects
 
 Here are some of the projects that I'm proud of:
